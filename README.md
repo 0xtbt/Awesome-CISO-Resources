@@ -1,1 +1,1 @@
-# open-source-cybersecurity
+# Awesome-CISO-Resources
